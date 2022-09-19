@@ -1,0 +1,186 @@
+@font-face {
+  font-family: "Nexa";
+  src: url("assets/fonts/NexaBlack.woff2") format("woff2"),
+    url("assets/fonts/NexaBlack.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Nexa";
+  src: url("assets/fonts/NexaLight.woff2") format("woff2"),
+    url("assets/fonts/NexaLight.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Myriad Pro";
+  src: url("assets/fonts/MyriadPro-Regular.woff2") format("woff2"),
+    url("assets/fonts/MyriadPro-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  color: #fff;
+  font-family: "Myriad Pro";
+}
+
+h1 {
+  font-family: "Nexa";
+  font-size: clamp(2rem, 15vw, 3.6rem);
+  font-weight: 900;
+}
+
+h1 > span {
+  display: block;
+  font-family: "Nexa";
+  font-size: 2.8rem;
+  font-weight: 300;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.welcome {
+  height: 100vh;
+  width: 100%;
+  background: url(assets/images/bg-start.png) center no-repeat;
+  background-size: cover !important;
+  background-attachment: fixed !important;
+  padding: 60px 10%;
+}
+
+.welcome img {
+  max-width: 587px;
+  width: 100%;
+  margin-top: 10rem;
+}
+
+.row {
+  display: flex;
+}
+
+.col {
+  width: 50%;
+  padding: 10px;
+}
+.btn {
+  display: inline-block;
+  font-family: "Nexa";
+  font-weight: 900;
+  padding: 10px 37px;
+  text-transform: uppercase;
+  transform: scale(1);
+  transition: 0.3s all;
+}
+
+.btn:hover {
+  transform: scale(1.2);
+}
+
+.btn::after {
+  content: "";
+  display: inline-block;
+  width: 20px;
+  height: 15px;
+  margin-bottom: -2px;
+  margin-left: 5px;
+  background: url(assets/images/arrow.svg) center no-repeat;
+  background-size: contain;
+}
+
+.btn.btn-default {
+  background: url(assets/images/bg-btn.png) center no-repeat;
+  background-size: contain;
+}
+
+.login {
+  height: 100vh;
+  width: 100%;
+  background: url(assets/images/bg-login.png) center no-repeat;
+  background-size: cover !important;
+  background-attachment: fixed !important;
+  padding: 60px 10%;
+}
+
+.login .logo {
+  max-width: 250px;
+  margin: 0 auto 30px;
+  display: block;
+}
+
+.login input {
+  display: block;
+  border-radius: 30px;
+  border: 1px solid #fff;
+  width: 50%;
+  margin: 0 auto 10px;
+  padding: 10px 20px;
+  text-transform: uppercase;
+}
+
+.login form small {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.login h2 {
+  font-family: "Nexa";
+  background: url(assets/images/title.png) center no-repeat;
+  width: 100%;
+  font-size: 29px;
+  font-weight: 900;
+  background-size: contain;
+  padding: 10px 40px;
+  margin-bottom: 20px;
+}
+
+@media only screen and (max-width: 800px) {
+  .welcome {
+    height: 100%;
+  }
+
+  .welcome img {
+    margin-top: 50px;
+  }
+  .login {
+    height: 100%;
+  }
+
+  .login img {
+    margin-top: 50px;
+  }
+
+  .row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .col {
+    max-width: 100%;
+    padding: 10px;
+  }
+
+  .login h2 {
+    font-size: 20px;
+    padding: 10px 5px;
+  }
+
+  .login form {
+    margin-bottom: 50px;
+  }
+
+  .login input {
+    width: 100%;
+  }
+  .btn {
+    margin-top: 10px;
+  }
+}

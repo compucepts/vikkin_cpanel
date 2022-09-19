@@ -1,0 +1,8975 @@
+2022-06-02 12:43:48https://api.inwista.ltd/receive.phpArray
+(
+    [id] => ZguUTp1OS8
+    [status] => NEW
+)
+
+
+
+
+2022-06-02 15:28:26https://api.inwista.ltd/receive.phpArray
+(
+    [id] => OjnpNYb4Ff
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-02 15:28:26Array
+(
+    [id] => OjnpNYb4Ff
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-02 20:28:35https://api.inwista.ltd/receive.phpArray
+(
+    [id] => pYFRkuJQ8E
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-02 20:28:35Array
+(
+    [id] => pYFRkuJQ8E
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-02 20:33:49https://api.inwista.ltd/receive.phpArray
+(
+    [id] => XZKu1D5vwF
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-02 20:33:49Array
+(
+    [id] => XZKu1D5vwF
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-02 20:33:50https://api.inwista.ltd/receive.phpArray
+(
+    [id] => XZKu1D5vwF
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-02 20:33:50Array
+(
+    [id] => XZKu1D5vwF
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-02 20:55:13https://api.inwista.ltd/receive.phpArray
+(
+    [id] => zqePHQFChp
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-02 20:55:13Array
+(
+    [id] => zqePHQFChp
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-03 08:57:42https://api.inwista.ltd/receive.phpArray
+(
+    [id] => uxDAGtLreN
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-03 08:57:42Array
+(
+    [id] => uxDAGtLreN
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-03 08:57:49https://api.inwista.ltd/receive.phpArray
+(
+    [id] => uxDAGtLreN
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-03 08:57:49Array
+(
+    [id] => uxDAGtLreN
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-03 09:42:29https://api.inwista.ltd/receive.phpArray
+(
+    [id] => OjnpNYb4Ff
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-03 09:42:29Array
+(
+    [id] => OjnpNYb4Ff
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-03 09:42:36https://api.inwista.ltd/receive.phpArray
+(
+    [id] => uxDAGtLreN
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-03 09:42:36Array
+(
+    [id] => uxDAGtLreN
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-03 11:10:59https://api.inwista.ltd/receive.phpArray
+(
+    [id] => UxhGXq0mZd
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-03 11:10:59Array
+(
+    [id] => UxhGXq0mZd
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-03 22:49:15https://api.inwista.ltd/receive.phpArray
+(
+    [id] => f1rwzAc6Kg
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-03 22:49:15Array
+(
+    [id] => f1rwzAc6Kg
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-03 22:53:59https://api.inwista.ltd/receive.phpArray
+(
+    [id] => yoQTKtCPAs
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-03 22:53:59Array
+(
+    [id] => yoQTKtCPAs
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-03 22:56:43https://api.inwista.ltd/receive.phpArray
+(
+    [id] => lwykAeHrMj
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-03 22:56:43Array
+(
+    [id] => lwykAeHrMj
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-03 22:56:49https://api.inwista.ltd/receive.phpArray
+(
+    [id] => lwykAeHrMj
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-03 22:56:49Array
+(
+    [id] => lwykAeHrMj
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-04 08:06:49https://api.inwista.ltd/receive.phpArray
+(
+    [id] => PDNAjLvCmR
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-04 08:06:49Array
+(
+    [id] => PDNAjLvCmR
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-04 08:06:49https://api.inwista.ltd/receive.phpArray
+(
+    [id] => PDNAjLvCmR
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-04 08:06:49Array
+(
+    [id] => PDNAjLvCmR
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-04 10:08:56https://api.inwista.ltd/receive.phpArray
+(
+    [id] => OjnpNYb4Ff
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-04 10:08:56Array
+(
+    [id] => OjnpNYb4Ff
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-04 10:11:18https://api.inwista.ltd/receive.phpArray
+(
+    [id] => OjnpNYb4Ff
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-04 10:11:18Array
+(
+    [id] => OjnpNYb4Ff
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-06-05 06:01:02https://api.inwista.ltd/receive.phpArray
+(
+    [id] => jO7GkiFgBE
+    [status] => NEW
+)
+
+
+
+
+2022-06-05 06:01:02Array
+(
+    [id] => jO7GkiFgBE
+    [status] => NEW
+)
+
+
+
+
+2022-06-05 06:01:22https://api.inwista.ltd/receive.phpArray
+(
+    [id] => uOtHvSqlT6
+    [status] => NEW
+)
+
+
+
+
+2022-06-05 06:01:22Array
+(
+    [id] => uOtHvSqlT6
+    [status] => NEW
+)
+
+
+
+
+2022-06-05 06:01:35https://api.inwista.ltd/receive.phpArray
+(
+    [id] => ALvfyhZGuX
+    [status] => NEW
+)
+
+
+
+
+2022-06-05 06:01:35Array
+(
+    [id] => ALvfyhZGuX
+    [status] => NEW
+)
+
+
+
+
+2022-06-05 06:01:47https://api.inwista.ltd/receive.phpArray
+(
+    [id] => DIUBj9SOx5
+    [status] => NEW
+)
+
+
+
+
+2022-06-05 06:01:47Array
+(
+    [id] => DIUBj9SOx5
+    [status] => NEW
+)
+
+
+
+
+2022-06-10 06:01:08https://api.inwista.ltd/receive.phpArray
+(
+    [id] => YEGQRJDUaK
+    [status] => NEW
+)
+
+
+
+
+2022-06-10 06:01:08Array
+(
+    [id] => YEGQRJDUaK
+    [status] => NEW
+)
+
+
+
+
+2022-06-10 06:01:17https://api.inwista.ltd/receive.phpArray
+(
+    [id] => Ebv7oAGIfj
+    [status] => NEW
+)
+
+
+
+
+2022-06-10 06:01:17Array
+(
+    [id] => Ebv7oAGIfj
+    [status] => NEW
+)
+
+
+
+
+2022-07-16 10:06:29https://api.inwista.ltd/receive.phpArray
+(
+    [id] => fUECNyI2t0
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-16 10:06:29Array
+(
+    [id] => fUECNyI2t0
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-16 10:07:36Array
+(
+    [id] => fUECNyI2t0
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-16 10:50:26Array
+(
+    [id] => fUECNyI2t0
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-16 14:24:51Array
+(
+    [id] => bwA4xfCJrj
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-16 14:24:51Array
+(
+    [id] => bwA4xfCJrj
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-16 15:23:49Array
+(
+    [id] => fWc5FNpbGZ
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-16 15:23:51Array
+(
+    [id] => fWc5FNpbGZ
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-16 15:25:35Array
+(
+    [id] => DR6rGhyCEs
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-16 15:41:46Array
+(
+    [id] => MPtRTYvaxe
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-16 15:41:50Array
+(
+    [id] => MPtRTYvaxe
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-16 16:13:59Array
+(
+    [id] => oN1dZSC6Qe
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-16 16:47:13Array
+(
+    [id] => ti9PjTsDAc
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-16 16:56:16Array
+(
+    [id] => 46eyjcwr2f
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-16 17:54:30Array
+(
+    [id] => mtDfZ6sQB5
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-16 18:04:10Array
+(
+    [id] => gsP1WTvRxI
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-16 18:50:48Array
+(
+    [id] => nPdEarRqpz
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-16 18:50:50Array
+(
+    [id] => nPdEarRqpz
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-16 19:03:14Array
+(
+    [id] => ATRnzYwfkC
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-16 19:26:29Array
+(
+    [id] => lvOLJrU9mA
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-16 19:34:28Array
+(
+    [id] => iSv9ULP8pg
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-16 20:31:09Array
+(
+    [id] => pSs6Pkz4Da
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-16 21:23:33Array
+(
+    [id] => z9OK2qNFyB
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-16 22:51:39Array
+(
+    [id] => vso4VcrCl5
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 00:29:57Array
+(
+    [id] => TjsvXy1LEB
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 00:41:19Array
+(
+    [id] => yxEPD0ifq6
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 01:13:32Array
+(
+    [id] => iX7pNYMAwK
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 01:59:26Array
+(
+    [id] => LrqCIv4D67
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 02:18:56Array
+(
+    [id] => X8IeO0H9oZ
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 02:20:02Array
+(
+    [id] => fTDtB1IAFm
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 02:24:46Array
+(
+    [id] => 4e3hW7qPD5
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 02:24:50Array
+(
+    [id] => 4e3hW7qPD5
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 02:31:15Array
+(
+    [id] => BeuKD6Sd7O
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 02:36:32Array
+(
+    [id] => gbORJiyQsP
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 06:02:30Array
+(
+    [id] => TMK6XOfRe7
+    [status] => NEW
+)
+
+
+
+
+2022-07-17 06:02:39Array
+(
+    [id] => P6sUgC1BeJ
+    [status] => NEW
+)
+
+
+
+
+2022-07-17 06:08:42Array
+(
+    [id] => bhwfuktUjD
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 06:15:57Array
+(
+    [id] => WA6j7wlQ4G
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 07:03:49Array
+(
+    [id] => y1YEIX2tZG
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 07:03:51Array
+(
+    [id] => y1YEIX2tZG
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 11:37:41Array
+(
+    [id] => u84voq9Cz1
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 12:21:13Array
+(
+    [id] => 7jUeWVJ4lZ
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 14:04:45Array
+(
+    [id] => MgO4RcE6nC
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 14:04:51Array
+(
+    [id] => MgO4RcE6nC
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 14:09:52Array
+(
+    [id] => wrMoQctpWe
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 14:09:54Array
+(
+    [id] => wrMoQctpWe
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 14:11:52Array
+(
+    [id] => cZHyzF6hSN
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 14:11:55Array
+(
+    [id] => cZHyzF6hSN
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 14:17:39Array
+(
+    [id] => tYSxJark9K
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 14:19:38Array
+(
+    [id] => Nb3G4m8heo
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 14:21:45Array
+(
+    [id] => GAtJbyKSl0
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 15:23:03Array
+(
+    [id] => rglya57eon
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 15:25:47Array
+(
+    [id] => AEv7VjxWIT
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 15:25:52Array
+(
+    [id] => AEv7VjxWIT
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 15:28:40Array
+(
+    [id] => VmJ8QOEqku
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 15:32:00Array
+(
+    [id] => Pdjk3KXpLt
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 16:05:16Array
+(
+    [id] => r2oFlSqsMc
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 16:38:51Array
+(
+    [id] => YKrWsmnXPF
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 16:38:51Array
+(
+    [id] => YKrWsmnXPF
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 17:44:10Array
+(
+    [id] => 80wIT4ChZW
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 19:26:09Array
+(
+    [id] => GdFiy0kwWQ
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 22:13:32Array
+(
+    [id] => InsC7gHGkD
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-17 23:56:33Array
+(
+    [id] => BkiPrMtRYx
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 00:15:19Array
+(
+    [id] => 5lMYtuG1Rx
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 10:55:23Array
+(
+    [id] => E2TqxNiu6y
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 11:11:05Array
+(
+    [id] => Nz5WpSfwnY
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 11:13:12Array
+(
+    [id] => 5vCaKp1Sqi
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 11:15:49Array
+(
+    [id] => aPOV5csv9S
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 11:15:51Array
+(
+    [id] => aPOV5csv9S
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 11:26:15Array
+(
+    [id] => K1yheidUJa
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 11:35:53Array
+(
+    [id] => aUA0jLIJyX
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 11:35:57Array
+(
+    [id] => aUA0jLIJyX
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 14:54:01Array
+(
+    [id] => QqZF7y9WAm
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 14:58:51Array
+(
+    [id] => rRnijfCvxh
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 14:58:51Array
+(
+    [id] => rRnijfCvxh
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 15:44:36Array
+(
+    [id] => KWVSH9xgzs
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 15:47:06Array
+(
+    [id] => IENs7XhoxA
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 15:50:33Array
+(
+    [id] => E94VmkUZ7J
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 15:54:12Array
+(
+    [id] => 1JyekPSBN8
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 16:05:17Array
+(
+    [id] => jrpzcDIlTW
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 16:10:48Array
+(
+    [id] => No0Xe6G5At
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 16:10:51Array
+(
+    [id] => No0Xe6G5At
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 16:28:39Array
+(
+    [id] => j4rzIwuBJp
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 18:17:53Array
+(
+    [id] => hO1RyIFjPk
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 18:17:56Array
+(
+    [id] => hO1RyIFjPk
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 19:07:27Array
+(
+    [id] => Te904fZmqE
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 19:45:24Array
+(
+    [id] => 9gM26RFNVj
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 20:21:21Array
+(
+    [id] => KMGyhvEDed
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 20:28:52Array
+(
+    [id] => Oqa4Q9dALr
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 20:28:54Array
+(
+    [id] => Oqa4Q9dALr
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 20:37:26Array
+(
+    [id] => JPKcVan29m
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 21:58:05Array
+(
+    [id] => LZoqFPcys5
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 22:07:20Array
+(
+    [id] => Sf4ytIDCGe
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 22:16:28Array
+(
+    [id] => nleEZYRN8K
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 22:18:39Array
+(
+    [id] => oYjtcdWBU0
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 22:23:52Array
+(
+    [id] => voPOiWl0CL
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 22:23:56Array
+(
+    [id] => voPOiWl0CL
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 22:35:05Array
+(
+    [id] => PEXcZRGYgA
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 22:35:50Array
+(
+    [id] => 2KhuDqbGCX
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 22:35:52Array
+(
+    [id] => 2KhuDqbGCX
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 22:36:11Array
+(
+    [id] => ToHsamvjwh
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 22:37:16Array
+(
+    [id] => bs41fAomEO
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 22:37:42Array
+(
+    [id] => tl34MvpFTP
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 22:37:50Array
+(
+    [id] => tl34MvpFTP
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 22:38:01Array
+(
+    [id] => rdcMwnE4se
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 22:40:58Array
+(
+    [id] => Btia8fkCSE
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 22:40:58Array
+(
+    [id] => Btia8fkCSE
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 22:42:38Array
+(
+    [id] => 2fRqC65dwp
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 23:24:15Array
+(
+    [id] => HmYgx1Meur
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 23:27:11Array
+(
+    [id] => y29uaCR8gv
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 23:54:52Array
+(
+    [id] => pd8MiF6Uby
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-18 23:54:55Array
+(
+    [id] => pd8MiF6Uby
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-19 01:33:48Array
+(
+    [id] => CjeDmosvy7
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-19 01:33:49Array
+(
+    [id] => CjeDmosvy7
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-19 06:00:56Array
+(
+    [id] => LgWzoPMtpn
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:01:05Array
+(
+    [id] => nvEF594YPz
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:01:14Array
+(
+    [id] => J6ROACYae4
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:01:21Array
+(
+    [id] => Pqko2Ftg4C
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:01:28Array
+(
+    [id] => hxakFLtAfW
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:01:35Array
+(
+    [id] => PcvJ8kopVa
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:01:42Array
+(
+    [id] => hFkA6vt7Oa
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:01:49Array
+(
+    [id] => F8wltTicKk
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:01:56Array
+(
+    [id] => xjszuMOQPB
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:02:03Array
+(
+    [id] => A2WNJ9zIEn
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:02:10Array
+(
+    [id] => 9K8GFHXNLt
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:02:19Array
+(
+    [id] => aRbvOMgn6L
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:02:26Array
+(
+    [id] => UyGqAHptdM
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:02:34Array
+(
+    [id] => QMxm36Wg9e
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:02:41Array
+(
+    [id] => fkFeMNqGIO
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:02:48Array
+(
+    [id] => rdiWFq0JMQ
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:02:55Array
+(
+    [id] => dCicWf2wNl
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:03:02Array
+(
+    [id] => 6GpKnFPSfB
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:03:09Array
+(
+    [id] => dNwI1zOAGU
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:03:16Array
+(
+    [id] => InuMCYqdU7
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:03:23Array
+(
+    [id] => 7NVE4qxgbk
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:03:30Array
+(
+    [id] => 1vIk5PaK4t
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:03:37Array
+(
+    [id] => vECWTBt1HF
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:03:44Array
+(
+    [id] => qQDyGk9EBX
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:03:51Array
+(
+    [id] => reXROuMUDi
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:03:58Array
+(
+    [id] => zWe3DyXJmY
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:04:05Array
+(
+    [id] => Lg5qYUHTXw
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:04:12Array
+(
+    [id] => YMWgtf9erX
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:04:19Array
+(
+    [id] => IvbDzUOR58
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:04:28Array
+(
+    [id] => j37cdZglNE
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:04:35Array
+(
+    [id] => aHR3QxctXW
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:04:42Array
+(
+    [id] => n7F2RHKdym
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:04:49Array
+(
+    [id] => 04TtcmExf9
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:04:58Array
+(
+    [id] => 3qRtKr1Mx2
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:05:06Array
+(
+    [id] => kl8AQTyJO9
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:05:15Array
+(
+    [id] => QxBViI3qJC
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:05:25Array
+(
+    [id] => w7crzVW0Hf
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:05:32Array
+(
+    [id] => YDUW3Xi1Vz
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:05:39Array
+(
+    [id] => SeixngHZPk
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:05:46Array
+(
+    [id] => KY1jbpdA3u
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:05:53Array
+(
+    [id] => GtYIfO0S4i
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:06:01Array
+(
+    [id] => XF9MLlxfDv
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:06:08Array
+(
+    [id] => V4XQRoiwCY
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:06:15Array
+(
+    [id] => SRGL1VHcn6
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:06:23Array
+(
+    [id] => vMPJT9WmxY
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:06:32Array
+(
+    [id] => DE0iPjf7vY
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:06:39Array
+(
+    [id] => gWqJkY4nFe
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:06:46Array
+(
+    [id] => oMeIa74gAF
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:06:52Array
+(
+    [id] => yeuDQdUj3q
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:06:59Array
+(
+    [id] => fXOvNC3HGZ
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:07:06Array
+(
+    [id] => uWagBRPskw
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:07:13Array
+(
+    [id] => 217etLbZ3h
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:07:20Array
+(
+    [id] => xUTz47nKRV
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:07:27Array
+(
+    [id] => njIsw3chCT
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:07:34Array
+(
+    [id] => JgzVxdwkrp
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:07:41Array
+(
+    [id] => sMD0tNilIG
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:07:48Array
+(
+    [id] => 6SrwUxdqiE
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:07:59Array
+(
+    [id] => JUy2SkDFHl
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:08:05Array
+(
+    [id] => 2oMrXq1OlE
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:08:12Array
+(
+    [id] => vFgshK9plL
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:08:21Array
+(
+    [id] => WzrPC4yax3
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:08:28Array
+(
+    [id] => 5KVvJiYUqI
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:08:37Array
+(
+    [id] => hWNrEqIJT9
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:08:48Array
+(
+    [id] => hMbGxAlR9D
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:08:55Array
+(
+    [id] => BeftY68Xqk
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:09:02Array
+(
+    [id] => iG9J7dBhK2
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:09:12Array
+(
+    [id] => hX4SgUwv3y
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:09:21Array
+(
+    [id] => QGEANxZOud
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:09:29Array
+(
+    [id] => sW78KaCXAP
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:09:36Array
+(
+    [id] => mWdlyEY6uD
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:09:45Array
+(
+    [id] => xjZtLBD8o2
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:09:53Array
+(
+    [id] => KBO1YHDENw
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:10:00Array
+(
+    [id] => hRKlW0kIo6
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:10:07Array
+(
+    [id] => 23BJVX0ZNa
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:10:14Array
+(
+    [id] => EwUVT42Y5q
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:10:21Array
+(
+    [id] => OdPvVoQGhJ
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:10:28Array
+(
+    [id] => RKXT1H4C76
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:10:35Array
+(
+    [id] => HIfo6EDWXh
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:10:43Array
+(
+    [id] => lmgRW715Ai
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:10:50Array
+(
+    [id] => eW2Aq0EpzS
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:10:59Array
+(
+    [id] => NA5RqGk9im
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:11:06Array
+(
+    [id] => x81JuiSGWc
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:11:14Array
+(
+    [id] => r3YfemO8no
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:11:21Array
+(
+    [id] => sW3jbCJRlk
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:11:28Array
+(
+    [id] => v4UOrWGQmR
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:11:35Array
+(
+    [id] => MtDjRqTaez
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:11:42Array
+(
+    [id] => xWO8PRNLE7
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:11:50Array
+(
+    [id] => IhsLVAzcFj
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:11:57Array
+(
+    [id] => i4KUOBtLFW
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:12:04Array
+(
+    [id] => uURA23OLW8
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:12:13Array
+(
+    [id] => kpa6GQbBwn
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:12:20Array
+(
+    [id] => 9gJO54sNG8
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:12:28Array
+(
+    [id] => P3t7ehRac4
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:12:37Array
+(
+    [id] => hISdjDixvc
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:12:44Array
+(
+    [id] => yCOdlxWYIN
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:12:52Array
+(
+    [id] => rq3EG2oZ8J
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:12:59Array
+(
+    [id] => XYC4NEB3Fl
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:13:05Array
+(
+    [id] => pECsbcKWf5
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:13:14Array
+(
+    [id] => 20EPHy3GY5
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:13:21Array
+(
+    [id] => 9ZeauXwNVj
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:13:28Array
+(
+    [id] => tG3ZJOV6gY
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:13:36Array
+(
+    [id] => ojSahimzu6
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:13:44Array
+(
+    [id] => USzZNLRcfA
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:13:51Array
+(
+    [id] => RsZBlhjQfC
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:13:58Array
+(
+    [id] => QJVAjWuv3D
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:14:05Array
+(
+    [id] => TRkhbwclDs
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:14:13Array
+(
+    [id] => DmKG401Pph
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:14:20Array
+(
+    [id] => XEOMfTbPcC
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:14:26Array
+(
+    [id] => XyQfRK7ns5
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:14:33Array
+(
+    [id] => a6Yok2Xb9M
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:14:40Array
+(
+    [id] => dyrcxCiO8D
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:14:47Array
+(
+    [id] => vO8ERFx1zU
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:14:54Array
+(
+    [id] => a2yiAQ8U7X
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:15:01Array
+(
+    [id] => QOZu9WVd6D
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:15:08Array
+(
+    [id] => LT9PRMKfZS
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:15:15Array
+(
+    [id] => ieMpjI3uUY
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:15:22Array
+(
+    [id] => Jb6FiAqeE2
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:15:29Array
+(
+    [id] => esjVXPL5SN
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:15:36Array
+(
+    [id] => tR5C01TKdn
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:15:44Array
+(
+    [id] => Hc1dTE7J2U
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:15:51Array
+(
+    [id] => lXn76uL4ct
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:15:59Array
+(
+    [id] => dZiJPCp5Vh
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:16:06Array
+(
+    [id] => oNJiTf6KcO
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:16:13Array
+(
+    [id] => Gyl2BVks4c
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:16:21Array
+(
+    [id] => Xquh3zmeZk
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:16:29Array
+(
+    [id] => pn9CKbfmQ3
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:16:36Array
+(
+    [id] => BwZO9JyItM
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:16:43Array
+(
+    [id] => SmWq0YU8VE
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:16:50Array
+(
+    [id] => G80MoQYnmF
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:16:57Array
+(
+    [id] => d72BQhFwpS
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:17:05Array
+(
+    [id] => cUv8TP9XEo
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:17:14Array
+(
+    [id] => Dn8XxBeY1Z
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:17:22Array
+(
+    [id] => ZeuR9NgW4k
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:17:30Array
+(
+    [id] => gVNKHtOv6y
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:17:38Array
+(
+    [id] => KGL3Z0vUI2
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:17:47Array
+(
+    [id] => cHlzdAxbpr
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:17:54Array
+(
+    [id] => U7wm8YeLRG
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:18:02Array
+(
+    [id] => IYkCoqAmBU
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:18:10Array
+(
+    [id] => mpyzDZhJxu
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:18:17Array
+(
+    [id] => BMWOIKPZgy
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:18:25Array
+(
+    [id] => ri3MwZY9FQ
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:18:33Array
+(
+    [id] => CONsRgQoZH
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:18:42Array
+(
+    [id] => q4sBHORTmU
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:18:49Array
+(
+    [id] => QFZ8wRSgUT
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:18:55Array
+(
+    [id] => 0hWv3yU9FD
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:19:01Array
+(
+    [id] => gS7FTYVhQ2
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:19:09Array
+(
+    [id] => U5eFHilAaS
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:19:17Array
+(
+    [id] => 3kiVG2zIOQ
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:19:24Array
+(
+    [id] => sENLtDnf8A
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:19:31Array
+(
+    [id] => 6WBblzXYPR
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:19:37Array
+(
+    [id] => 6vAgrqD57S
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:19:45Array
+(
+    [id] => aYZbz1DiQX
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:20:02Array
+(
+    [id] => zY0rKMZe2q
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:20:10Array
+(
+    [id] => yzZsQ2B0o3
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:20:17Array
+(
+    [id] => o2cHxpgdSs
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:20:25Array
+(
+    [id] => ARgdskuYhT
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:20:32Array
+(
+    [id] => 9YWBH8TlzE
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:20:39Array
+(
+    [id] => KSIeulkX7V
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:20:47Array
+(
+    [id] => EIN7j0i4Jw
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 06:20:55Array
+(
+    [id] => 9JM4ub6ir8
+    [status] => NEW
+)
+
+
+
+
+2022-07-19 11:23:32Array
+(
+    [id] => 4iruhj0y38
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-19 11:32:07Array
+(
+    [id] => tv6yqO2LXe
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-19 11:39:08Array
+(
+    [id] => JO1y7Wcnfx
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-19 14:49:18Array
+(
+    [id] => uYc5OKA8lC
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-19 14:52:51Array
+(
+    [id] => TVyWDvcdtY
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-19 14:52:56Array
+(
+    [id] => TVyWDvcdtY
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-19 15:36:36Array
+(
+    [id] => QKBV2cfe67
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-19 19:25:23Array
+(
+    [id] => 06W8MG4l31
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-19 19:27:55Array
+(
+    [id] => rbDKMyIap8
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-19 19:27:55Array
+(
+    [id] => rbDKMyIap8
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-19 19:29:18Array
+(
+    [id] => WGHP3kfFu2
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-19 19:43:02Array
+(
+    [id] => Fp0AZd9wcu
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-19 19:43:09Array
+(
+    [id] => M3kgUqQ09T
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-19 21:02:55Array
+(
+    [id] => iya6Q2HYPL
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-19 21:02:59Array
+(
+    [id] => iya6Q2HYPL
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-19 21:07:17Array
+(
+    [id] => p1nkLtCgYh
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-19 22:33:49Array
+(
+    [id] => LBrS6MWIwU
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-19 22:33:50Array
+(
+    [id] => LBrS6MWIwU
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-19 22:37:12Array
+(
+    [id] => H9RnzJCBSb
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-19 22:48:11Array
+(
+    [id] => wJtcozFeWY
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-20 00:58:35Array
+(
+    [id] => 6xJWqzwpEH
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-20 06:00:53Array
+(
+    [id] => cPTfZygCQ2
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:01:00Array
+(
+    [id] => nQSrM81kYx
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:01:09Array
+(
+    [id] => rdcR9w3ZV6
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:01:16Array
+(
+    [id] => M8KkBdP7hR
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:01:41Array
+(
+    [id] => uM27kUDiyL
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:01:48Array
+(
+    [id] => xcVMAbpClR
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:01:58Array
+(
+    [id] => khx81b0zql
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:02:05Array
+(
+    [id] => 4SxbJUr8OM
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:02:14Array
+(
+    [id] => wiuz7Rqfae
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:02:21Array
+(
+    [id] => FSxCEZGNXI
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:02:29Array
+(
+    [id] => 9WeSQJdXpC
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:02:36Array
+(
+    [id] => o8Pt1N3JWQ
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:02:43Array
+(
+    [id] => hoB6AYc80n
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:02:50Array
+(
+    [id] => Yzk7TSghoV
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:02:57Array
+(
+    [id] => qIJxnPZvMw
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:03:04Array
+(
+    [id] => wUZfQ0sdak
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:03:11Array
+(
+    [id] => pPmQThRAJZ
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:03:18Array
+(
+    [id] => 6sc70Oh2xr
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:03:26Array
+(
+    [id] => sTUq1xhDlE
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:03:33Array
+(
+    [id] => WgeirDXqKP
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:03:40Array
+(
+    [id] => OuPR2L87QA
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:03:49Array
+(
+    [id] => LBSxqz7wYK
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:03:56Array
+(
+    [id] => O5k2tlEDuf
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:04:03Array
+(
+    [id] => qKctuNon5s
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:04:09Array
+(
+    [id] => p1yBHcYj6s
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:04:16Array
+(
+    [id] => LFGdmRjaD8
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:04:24Array
+(
+    [id] => UqbHlcVNMY
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:04:32Array
+(
+    [id] => cq5dkJ04oK
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:04:41Array
+(
+    [id] => 8JTcqwbBn3
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:04:48Array
+(
+    [id] => hzkVYRXKrM
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:04:56Array
+(
+    [id] => IBR0PSgq3v
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:05:04Array
+(
+    [id] => DQBj0a4sex
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:05:11Array
+(
+    [id] => R6ibyzkVPF
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:05:18Array
+(
+    [id] => fAku4CpnL8
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:05:24Array
+(
+    [id] => cth8oB3KJF
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:05:32Array
+(
+    [id] => mKDNPMy42H
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:05:40Array
+(
+    [id] => xFegWsLwaS
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:05:47Array
+(
+    [id] => sCFfRKnGXE
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:05:54Array
+(
+    [id] => 1tms8MYDPg
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:06:01Array
+(
+    [id] => h5MP7d9Lz0
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:06:09Array
+(
+    [id] => cTO83Joi1g
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:06:20Array
+(
+    [id] => 16z3vpqtwO
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:06:27Array
+(
+    [id] => HGZLoFfTqI
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:06:35Array
+(
+    [id] => gsXH2J74Tb
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:06:44Array
+(
+    [id] => mGu24fVn8j
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:06:53Array
+(
+    [id] => 1rwVHMAuZF
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:07:01Array
+(
+    [id] => QivZ3Bxmoc
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:07:08Array
+(
+    [id] => ik6ZgUhxlN
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:07:15Array
+(
+    [id] => RG9PnFJtWL
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:07:24Array
+(
+    [id] => jZ5Tzpx0kB
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:07:30Array
+(
+    [id] => Hg7hKs90ES
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:07:39Array
+(
+    [id] => gR2w8hc63t
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:07:46Array
+(
+    [id] => c183zBtTMg
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:07:52Array
+(
+    [id] => m3UDKjrcX5
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:07:59Array
+(
+    [id] => QFarjtWZKJ
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:08:06Array
+(
+    [id] => h6zkTtfCOd
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:08:13Array
+(
+    [id] => 42M3alnxr6
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:08:20Array
+(
+    [id] => LZX8BdfD3i
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:08:27Array
+(
+    [id] => 9um4qVizfB
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:08:35Array
+(
+    [id] => 1NgsSdL0Zz
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:08:42Array
+(
+    [id] => DS7p9hlicJ
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:08:51Array
+(
+    [id] => S50WNoD9bA
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:08:59Array
+(
+    [id] => lTNzCbJ8Qt
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:09:07Array
+(
+    [id] => Cz0yT6NSi3
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:09:16Array
+(
+    [id] => 4ae0Urf2Bs
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:09:23Array
+(
+    [id] => IBOPzgJ4Q7
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:09:30Array
+(
+    [id] => fgaTlN3ejn
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:09:39Array
+(
+    [id] => OcgGolWKs2
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:09:50Array
+(
+    [id] => eEvGhNBj5r
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:09:57Array
+(
+    [id] => O2goRhuen9
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:10:04Array
+(
+    [id] => qGO8aWyIgL
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:10:12Array
+(
+    [id] => yGUrpEStX3
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:10:19Array
+(
+    [id] => qkcxtrLXHC
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:10:26Array
+(
+    [id] => sBw0x3KdlO
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:10:33Array
+(
+    [id] => T16NMcQx5d
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:10:40Array
+(
+    [id] => Y0UoaszwDb
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:10:48Array
+(
+    [id] => vks0GHWZRM
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:10:55Array
+(
+    [id] => dBhju5qNrt
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:11:04Array
+(
+    [id] => cTWpqyHerv
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:11:13Array
+(
+    [id] => To5M6VO0vd
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:11:22Array
+(
+    [id] => wzxTspZ3FE
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:11:33Array
+(
+    [id] => 0Nsc6xJWFt
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:11:41Array
+(
+    [id] => vPkJLTiI4U
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:11:50Array
+(
+    [id] => oYtwX4VF10
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:11:59Array
+(
+    [id] => nUhObB6Fdl
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:12:09Array
+(
+    [id] => bo20Qmzr3X
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:12:16Array
+(
+    [id] => DtoO95h3Wq
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:12:23Array
+(
+    [id] => OUzcitIY2F
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:12:30Array
+(
+    [id] => QrUOWFuIDi
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:12:37Array
+(
+    [id] => cWED1exiNk
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:12:44Array
+(
+    [id] => HkmW0wZCVj
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:12:53Array
+(
+    [id] => CRwUSbxNAh
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:13:00Array
+(
+    [id] => JeomlsTrQd
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:13:08Array
+(
+    [id] => EXdfaylVgi
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:13:16Array
+(
+    [id] => nSqlZIPDeY
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:13:22Array
+(
+    [id] => PHxWD1E9F4
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:13:29Array
+(
+    [id] => jcl7QpoCEt
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:13:36Array
+(
+    [id] => P6fjqUBdT2
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:13:43Array
+(
+    [id] => A95ckU6KNx
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:13:52Array
+(
+    [id] => CjyR1a06rp
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:13:59Array
+(
+    [id] => M0hgZBqA5T
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:14:05Array
+(
+    [id] => OEPbwWNa57
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:14:14Array
+(
+    [id] => D1HGIkFpx2
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:14:21Array
+(
+    [id] => IdMaomHN5c
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:14:27Array
+(
+    [id] => OEqe7vfYDS
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:14:35Array
+(
+    [id] => 3PjMU6A82s
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:14:42Array
+(
+    [id] => gXZBSFsEA9
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:14:49Array
+(
+    [id] => ifEda8TFeN
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:14:56Array
+(
+    [id] => SOFiol0svK
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:15:03Array
+(
+    [id] => 1ZnPgO2hMc
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:15:12Array
+(
+    [id] => vMe8dl2Qpj
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:15:21Array
+(
+    [id] => M3EZo4RxTu
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:15:29Array
+(
+    [id] => YtcghZjb7q
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:15:36Array
+(
+    [id] => vbusiOncLA
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:15:44Array
+(
+    [id] => 8OvlkDjWdx
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:15:51Array
+(
+    [id] => bN2jeyOsIQ
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 06:16:02Array
+(
+    [id] => Z2u6Il8DCB
+    [status] => NEW
+)
+
+
+
+
+2022-07-20 11:40:39Array
+(
+    [id] => cFXhM0PTVp
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-20 11:56:51Array
+(
+    [id] => JktzbK8hs4
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-20 11:56:53Array
+(
+    [id] => JktzbK8hs4
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-20 12:32:53Array
+(
+    [id] => wKvLYfNEoP
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-20 12:32:56Array
+(
+    [id] => wKvLYfNEoP
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-20 13:29:13Array
+(
+    [id] => NsprOg4Um3
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-20 14:05:13Array
+(
+    [id] => 35GLcdeZyX
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-20 17:56:46Array
+(
+    [id] => DyGCK02ZxQ
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-20 17:56:53Array
+(
+    [id] => DyGCK02ZxQ
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-20 18:04:12Array
+(
+    [id] => pU0uJRd5bY
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-21 00:46:45Array
+(
+    [id] => OTdcUZo9Qr
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-21 00:46:50Array
+(
+    [id] => OTdcUZo9Qr
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-21 03:17:50Array
+(
+    [id] => JTiW03abkL
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-21 03:17:51Array
+(
+    [id] => JTiW03abkL
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-21 03:27:44Array
+(
+    [id] => capHRlB3QC
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-21 03:27:51Array
+(
+    [id] => capHRlB3QC
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-21 03:59:54Array
+(
+    [id] => KrsOJ8DPo7
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-21 03:59:55Array
+(
+    [id] => KrsOJ8DPo7
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-21 06:00:57Array
+(
+    [id] => QxGZWMSyRw
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:01:06Array
+(
+    [id] => UC6w0hB5DP
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:01:14Array
+(
+    [id] => yRLW2akwJu
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:01:22Array
+(
+    [id] => bPj6531xFK
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:01:29Array
+(
+    [id] => WGVfP7ob2Z
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:01:37Array
+(
+    [id] => abhZ3wQSmD
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:01:49Array
+(
+    [id] => BX4umkYGbw
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:01:56Array
+(
+    [id] => 4dW7zD0Yi6
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:02:04Array
+(
+    [id] => mKtioYHFqk
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:02:11Array
+(
+    [id] => oedFivtMx2
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:02:18Array
+(
+    [id] => EAJ053Cbj8
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:02:26Array
+(
+    [id] => sRI0JPXFWM
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:02:34Array
+(
+    [id] => 2x1VRk9OpP
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:02:43Array
+(
+    [id] => k5J1wugMc7
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:02:52Array
+(
+    [id] => 4jh1eN3AoG
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:02:59Array
+(
+    [id] => dhXFUCwMDn
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:03:08Array
+(
+    [id] => BV7j2S8Xcf
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:03:15Array
+(
+    [id] => zxAPdOVHlL
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:03:22Array
+(
+    [id] => f6xULmYapz
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:03:29Array
+(
+    [id] => xp4eSHMG5q
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:03:38Array
+(
+    [id] => JbZ5DvtFBW
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:03:45Array
+(
+    [id] => h1gljAJE6H
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:03:53Array
+(
+    [id] => tHsiU8k7lM
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:04:02Array
+(
+    [id] => sLmfAMBpYr
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:04:09Array
+(
+    [id] => 6X9xtOAjV8
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:04:16Array
+(
+    [id] => b185dBFYxA
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:04:28Array
+(
+    [id] => 2iylXa9e8T
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:04:36Array
+(
+    [id] => xsZTzQ9y3u
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:04:45Array
+(
+    [id] => pLsU7wSB0f
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:04:52Array
+(
+    [id] => 3yb6iWr9KC
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:05:03Array
+(
+    [id] => lwNxmzUnj1
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:05:11Array
+(
+    [id] => kiMQovZ9Lx
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:05:20Array
+(
+    [id] => Zfko4gSLeD
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:05:28Array
+(
+    [id] => AOPcZ5NL9V
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:05:37Array
+(
+    [id] => BU6lopZbWJ
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:05:46Array
+(
+    [id] => DePHLE90Jp
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:05:53Array
+(
+    [id] => oflxjyAtPI
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:06:01Array
+(
+    [id] => LKpVAS0sUf
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:06:08Array
+(
+    [id] => vYwzJq98eX
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:06:23Array
+(
+    [id] => ZIWm82UxyR
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:06:33Array
+(
+    [id] => slUvBPxrDj
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:06:39Array
+(
+    [id] => AOXMfsxoH6
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:06:45Array
+(
+    [id] => xrpBVZLmig
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:06:54Array
+(
+    [id] => tjnXxGzSDM
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:07:01Array
+(
+    [id] => 80sqFJGEO9
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:07:10Array
+(
+    [id] => wmZuXJcTSF
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:07:19Array
+(
+    [id] => mDafVRoOxq
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:07:26Array
+(
+    [id] => oKxcYlRa9G
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:07:35Array
+(
+    [id] => 69loDVGPaX
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:07:42Array
+(
+    [id] => lPwSgHONpD
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:07:49Array
+(
+    [id] => RS4hj3DL6C
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:08:00Array
+(
+    [id] => Q52nIYpT9B
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:08:10Array
+(
+    [id] => a5niC2s4y1
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:08:18Array
+(
+    [id] => qVwYsOPKpe
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:08:27Array
+(
+    [id] => tSAxnP48fv
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:08:36Array
+(
+    [id] => ZOvk1Pu0D7
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:08:43Array
+(
+    [id] => YxCJWNcgyh
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:08:50Array
+(
+    [id] => RXhL9bQYrn
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:08:58Array
+(
+    [id] => 7g0voXORKe
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:09:08Array
+(
+    [id] => IwekPrhsCb
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:09:16Array
+(
+    [id] => jH2KnkPhCE
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:09:23Array
+(
+    [id] => O7yHpdTVSQ
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:09:31Array
+(
+    [id] => UclthiRz84
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:09:39Array
+(
+    [id] => qJnahT4QjP
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:09:46Array
+(
+    [id] => 50Rgjy12Cz
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:09:58Array
+(
+    [id] => QYR0iIuwLC
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:10:07Array
+(
+    [id] => p8P7SrmGL6
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:10:23Array
+(
+    [id] => WXKUu9ETb8
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:10:31Array
+(
+    [id] => JLpgxGZkhy
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:10:38Array
+(
+    [id] => WTPknbRjKw
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:10:47Array
+(
+    [id] => IMab3HysYZ
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:10:56Array
+(
+    [id] => ftO8dazY7R
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:11:05Array
+(
+    [id] => oUrwBnKsWc
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:11:12Array
+(
+    [id] => eE4MGdz9tP
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:11:21Array
+(
+    [id] => RWkFy4CjHt
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:11:28Array
+(
+    [id] => oe0myZ92vT
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:11:35Array
+(
+    [id] => 9tagFdOAH7
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:11:43Array
+(
+    [id] => OZyFB0VvWA
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:11:52Array
+(
+    [id] => 03zUVtc2Ks
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:11:59Array
+(
+    [id] => RFo5WNQ6jl
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:12:08Array
+(
+    [id] => 9NpAxSPw4H
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:12:18Array
+(
+    [id] => zmctPbVyhW
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:12:27Array
+(
+    [id] => EYJoMS5R0k
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:12:34Array
+(
+    [id] => Cn6Dx3ctkm
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:12:42Array
+(
+    [id] => Hvbh9WX6U0
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:12:50Array
+(
+    [id] => 35FpnCQSlv
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:12:59Array
+(
+    [id] => ylKDZUf19e
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:13:08Array
+(
+    [id] => iNGFO4d6kz
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:13:16Array
+(
+    [id] => fmqHVW5QyJ
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:13:23Array
+(
+    [id] => cGDBwjLJ6C
+    [status] => NEW
+)
+
+
+
+
+2022-07-21 06:13:37Array
+(
+    [id] => KhBctRkbny
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:00:50Array
+(
+    [id] => 5EI8qTftrN
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:00:53Array
+(
+    [id] => yNVzsfuH41
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:00:56Array
+(
+    [id] => w5ihPdRaq2
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:01:11Array
+(
+    [id] => fqXswLZEzS
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:01:14Array
+(
+    [id] => HDxKULVXEP
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:01:16Array
+(
+    [id] => 8Cew2iyg7Z
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:01:20Array
+(
+    [id] => sckRvUIlAK
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:01:23Array
+(
+    [id] => A3MmoPGcV2
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:01:26Array
+(
+    [id] => NAGP0yre6I
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:01:29Array
+(
+    [id] => BoeVgE2rpH
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:01:32Array
+(
+    [id] => fPMyjkZzIX
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:01:35Array
+(
+    [id] => lEDQCLA5r7
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:01:38Array
+(
+    [id] => pRLCzIU7ae
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:01:41Array
+(
+    [id] => vTS0HFsugV
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:01:46Array
+(
+    [id] => HIuFME6D43
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:01:49Array
+(
+    [id] => kozTCrZOU5
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:01:52Array
+(
+    [id] => 8ZWCQ7G0zi
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:01:54Array
+(
+    [id] => KGO0vxNVM2
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:01:57Array
+(
+    [id] => hxYAakJ3PX
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:02:00Array
+(
+    [id] => e1kQ34AMHF
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:02:03Array
+(
+    [id] => UJSaM5E7Nx
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:02:13Array
+(
+    [id] => jUpJ7TuRLB
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:02:17Array
+(
+    [id] => 9w72Z8fbjY
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:02:20Array
+(
+    [id] => hoOqd5P6gj
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:02:23Array
+(
+    [id] => qhCQtbVdwN
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:02:25Array
+(
+    [id] => kdNqtL0EHF
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:02:28Array
+(
+    [id] => hqA7QoYz6e
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:02:31Array
+(
+    [id] => 7i4u0HVOGY
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:02:34Array
+(
+    [id] => cYC16sLMzt
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:02:37Array
+(
+    [id] => 1985tVLlfX
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:02:40Array
+(
+    [id] => RWGLE6KoZv
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:02:43Array
+(
+    [id] => bBOHnUYjFl
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:02:45Array
+(
+    [id] => YsxctEJmgF
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:02:48Array
+(
+    [id] => XRa3UBDZCg
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:02:51Array
+(
+    [id] => GKpnQSiNXv
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:02:54Array
+(
+    [id] => 8LX1oRGKwZ
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:02:57Array
+(
+    [id] => I9aHcgtKFl
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:02:59Array
+(
+    [id] => VgoHN7vSCJ
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:03:01Array
+(
+    [id] => iVMurGc2bh
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:03:04Array
+(
+    [id] => gWxQvuleSy
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:03:07Array
+(
+    [id] => FjorTetUVE
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:03:10Array
+(
+    [id] => 8glcOvbSyk
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:03:13Array
+(
+    [id] => bBeACNQ0Gu
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:03:16Array
+(
+    [id] => w2dRsHyOTN
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:03:19Array
+(
+    [id] => 5ZV0wlWmFD
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:03:22Array
+(
+    [id] => 7nLvtckeMz
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:03:25Array
+(
+    [id] => zT3c1MDjYm
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:03:28Array
+(
+    [id] => rJoxYS8f4Z
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:03:31Array
+(
+    [id] => 2iMsoIZbeJ
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:03:33Array
+(
+    [id] => q7yUTjvuad
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:03:36Array
+(
+    [id] => v60F4icQTY
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:03:40Array
+(
+    [id] => i6KGshp7FW
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:03:43Array
+(
+    [id] => 8J32FEIH60
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:03:46Array
+(
+    [id] => EzVepPUyLC
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:03:49Array
+(
+    [id] => fL4zqQKuWZ
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:03:51Array
+(
+    [id] => dPN0agFlo4
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:03:56Array
+(
+    [id] => upEy1dvrI2
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:04:03Array
+(
+    [id] => RbU1hPrA0d
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:04:08Array
+(
+    [id] => iw5NTS0R7H
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:04:10Array
+(
+    [id] => IZ62CmHyJA
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:04:13Array
+(
+    [id] => ZcqzoRkb17
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:04:18Array
+(
+    [id] => 9rEVSN2W6k
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:04:21Array
+(
+    [id] => CNj579iHSU
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:04:24Array
+(
+    [id] => nJDMbIHkzW
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:04:29Array
+(
+    [id] => X5bAN6Pi4v
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:04:33Array
+(
+    [id] => cZN6UAJxyd
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:04:38Array
+(
+    [id] => fZi1chMqwz
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:04:41Array
+(
+    [id] => AqQgJ7Xtj6
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:04:48Array
+(
+    [id] => v8IYt5WRmL
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:04:50Array
+(
+    [id] => wVNH46kY2C
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:04:53Array
+(
+    [id] => 4IoXNLpzHR
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:04:56Array
+(
+    [id] => 5ngeUE8MTF
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:04:58Array
+(
+    [id] => wH2fRLs4Mc
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:05:03Array
+(
+    [id] => Fz4BM9arkL
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:05:06Array
+(
+    [id] => BN9UPMzl42
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:05:09Array
+(
+    [id] => lcDLVm5QO0
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:05:13Array
+(
+    [id] => C2bDdaTfw6
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:05:17Array
+(
+    [id] => RJCk2b7Q3Y
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:05:21Array
+(
+    [id] => uw1FtBcyps
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:05:24Array
+(
+    [id] => 9nGeUvAmlN
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:05:26Array
+(
+    [id] => QzMNLnswyr
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:05:29Array
+(
+    [id] => GVbxm5opcH
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:05:32Array
+(
+    [id] => DFZjQWyE6f
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:05:35Array
+(
+    [id] => ldYeVb8kB6
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:05:37Array
+(
+    [id] => S6OcXr1oGK
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:05:40Array
+(
+    [id] => LdGFbrNZhJ
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:05:43Array
+(
+    [id] => CcPFpTXdMN
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:05:47Array
+(
+    [id] => 5IyBoZjmEq
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:05:50Array
+(
+    [id] => wh5kYrL9ZN
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:05:53Array
+(
+    [id] => 8GijJaBczT
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:05:56Array
+(
+    [id] => eitMHz5hLl
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:05:59Array
+(
+    [id] => fsCPmz21jM
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:06:02Array
+(
+    [id] => a8qnosFV7P
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:06:04Array
+(
+    [id] => j6qJCH2XSW
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:06:07Array
+(
+    [id] => cHPOhl2DG6
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:06:10Array
+(
+    [id] => dMIAYcfsUK
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:06:13Array
+(
+    [id] => OiJ7yLdWU6
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:06:15Array
+(
+    [id] => j5OcCmrbih
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:06:18Array
+(
+    [id] => B084nuoZCO
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:06:21Array
+(
+    [id] => mD8Jjwr5Go
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:06:24Array
+(
+    [id] => o2Fv1YeELu
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:06:27Array
+(
+    [id] => YQ8NomhiL5
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:06:30Array
+(
+    [id] => fYucdRwhCv
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:06:35Array
+(
+    [id] => 4HG81stUp6
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:06:38Array
+(
+    [id] => 6snGRK1ALZ
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:06:41Array
+(
+    [id] => qBzLuXmwsp
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:06:44Array
+(
+    [id] => Qwp1zCMO3L
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:06:47Array
+(
+    [id] => vDFXcKqHEI
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:06:49Array
+(
+    [id] => Bk9R3gnfVJ
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:06:52Array
+(
+    [id] => y6RSq1c8Y5
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:06:56Array
+(
+    [id] => bNPm6icl73
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:06:59Array
+(
+    [id] => cQwRpsnXtN
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:07:03Array
+(
+    [id] => F1eW2kB8uX
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:07:06Array
+(
+    [id] => NxRObqLyUs
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:07:09Array
+(
+    [id] => HU6ycOd7FD
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:07:12Array
+(
+    [id] => Pe38wBkaoL
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:07:15Array
+(
+    [id] => xWDRapgXQG
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:07:18Array
+(
+    [id] => rUKApzbIyV
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:07:21Array
+(
+    [id] => F6IlwXWYDa
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:07:24Array
+(
+    [id] => 6J4MCkNTwH
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:07:27Array
+(
+    [id] => uH5tnSPVA4
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:07:30Array
+(
+    [id] => xVGW0vJpwP
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:07:32Array
+(
+    [id] => 9DNZKoz5Yg
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:07:41Array
+(
+    [id] => 7SiGIjbYFD
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:07:44Array
+(
+    [id] => 5M2Q0OLw7F
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:07:47Array
+(
+    [id] => OR1oxgPH8N
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:07:53Array
+(
+    [id] => STh9tkmoBA
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:07:56Array
+(
+    [id] => pgbL5WeyfZ
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:08:05Array
+(
+    [id] => kGKgmCYwrQ
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:08:08Array
+(
+    [id] => Vx7TRGfvD0
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:08:12Array
+(
+    [id] => vwXj36Wxzu
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:08:17Array
+(
+    [id] => 3wFM7bog56
+    [status] => NEW
+)
+
+
+
+
+2022-07-22 06:08:23Array
+(
+    [id] => 1GXuLEjtyI
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:00:49Array
+(
+    [id] => nz5fPVUQDj
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:00:58Array
+(
+    [id] => USPX0tJHsO
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:01:01Array
+(
+    [id] => nKDkIVOjsv
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:01:04Array
+(
+    [id] => gwxd9z2BtJ
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:01:07Array
+(
+    [id] => ksySjWJQt6
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:01:09Array
+(
+    [id] => r3Ol7G5kZX
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:01:12Array
+(
+    [id] => DXMy0QhY9O
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:01:16Array
+(
+    [id] => 7rKp5S6MuH
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:01:19Array
+(
+    [id] => HAf7e8jhbL
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:01:23Array
+(
+    [id] => 79RWytnN81
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:01:26Array
+(
+    [id] => NfSw9Fk6mv
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:01:29Array
+(
+    [id] => IhGLlNnTHp
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:01:31Array
+(
+    [id] => 0WtYrHqupi
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:01:37Array
+(
+    [id] => SBEJO1lPUM
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:01:40Array
+(
+    [id] => YrzuR5hvQM
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:01:43Array
+(
+    [id] => Db32iang6c
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:01:48Array
+(
+    [id] => O2HVwUTSYL
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:01:51Array
+(
+    [id] => Zai5dz6lrB
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:01:58Array
+(
+    [id] => vhV3QSm6j5
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:02:01Array
+(
+    [id] => sacXehj3Rz
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:02:04Array
+(
+    [id] => UiFSVDOnTr
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:02:07Array
+(
+    [id] => iTsoeF5fAB
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:02:09Array
+(
+    [id] => mGLkpQNET6
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:02:14Array
+(
+    [id] => 0CmBrfdj6c
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:02:17Array
+(
+    [id] => N6QSz9B5Tj
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:02:20Array
+(
+    [id] => lWoHwZ7GR2
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:02:23Array
+(
+    [id] => Z9rSPx8vs6
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:02:27Array
+(
+    [id] => XmnwC68EdY
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:02:30Array
+(
+    [id] => LuWZqgnD6j
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:02:33Array
+(
+    [id] => KglWDj5YF0
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:02:37Array
+(
+    [id] => JanVip3Loy
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:02:40Array
+(
+    [id] => CsL6RQFZa7
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:02:46Array
+(
+    [id] => dSMv5TqBPe
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:02:52Array
+(
+    [id] => S6N9PkEx4A
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:02:56Array
+(
+    [id] => d50ARa13oZ
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:03:00Array
+(
+    [id] => hHoBlL4R0t
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:03:03Array
+(
+    [id] => r012zcUAEL
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:03:06Array
+(
+    [id] => jq3dMhn0tV
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:03:16Array
+(
+    [id] => njQ7HTscyx
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:03:19Array
+(
+    [id] => xu8fwl3UXh
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:03:23Array
+(
+    [id] => L4NDW2GKvR
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:03:26Array
+(
+    [id] => iouODWHATx
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:03:29Array
+(
+    [id] => JsHfzOX6ub
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:03:34Array
+(
+    [id] => NLcRrPA6q8
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:03:36Array
+(
+    [id] => DTUJ0hXmqI
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:03:39Array
+(
+    [id] => mG8r6DSKMe
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:03:42Array
+(
+    [id] => 7Q4fszAGDU
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:03:45Array
+(
+    [id] => CShuoJpyzf
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:03:48Array
+(
+    [id] => SOieV0puHL
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:03:53Array
+(
+    [id] => 5p1hKZ4dAO
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:03:56Array
+(
+    [id] => 9uvmAbe62O
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:04:00Array
+(
+    [id] => AYgRbcnOQm
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:04:03Array
+(
+    [id] => Lhs1V8iDI5
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:04:11Array
+(
+    [id] => dPkpF6AyuL
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:04:13Array
+(
+    [id] => 2hmqyP1FWZ
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:04:16Array
+(
+    [id] => ZIsvLpA6rH
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:04:19Array
+(
+    [id] => pLSKFHIR84
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:04:22Array
+(
+    [id] => czt8Vvp9Ea
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:04:26Array
+(
+    [id] => nLEl7vKiNT
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:04:30Array
+(
+    [id] => zOtlinIyWq
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:04:32Array
+(
+    [id] => jX8Ftw4NC5
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:04:36Array
+(
+    [id] => LtRHnek5Nf
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:04:41Array
+(
+    [id] => suC7nlQxeR
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:04:44Array
+(
+    [id] => FjbEBIr7se
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:04:46Array
+(
+    [id] => FE3YJ1O5bm
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:04:49Array
+(
+    [id] => i0KjEc7ga2
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:04:55Array
+(
+    [id] => zJeUuWfBFs
+    [status] => NEW
+)
+
+
+
+
+2022-07-23 06:05:01Array
+(
+    [id] => iK3dka7Trz
+    [status] => NEW
+)
+
+
+
+
+2022-07-31 05:49:31Array
+(
+    [id] => tWphgmXvdS
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-31 06:01:32Array
+(
+    [id] => mfWjDAo2JZ
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-31 06:45:12Array
+(
+    [id] => DG6ayQHLs4
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-31 06:54:00Array
+(
+    [id] => 7HIOwsxaYv
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-07-31 23:08:43Array
+(
+    [id] => E4SylQIcq9
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-08-01 11:04:59Array
+(
+    [id] => RTz9gLEQB5
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-08-01 11:53:24Array
+(
+    [id] => mhVWnywQtN
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-08-01 14:13:35Array
+(
+    [id] => YOLotfumMi
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-08-02 06:01:24Array
+(
+    [id] => I1ZnTiryWo
+    [status] => NEW
+)
+
+
+
+
+2022-08-02 06:01:30Array
+(
+    [id] => MglNqiUfI5
+    [status] => NEW
+)
+
+
+
+
+2022-08-02 06:01:35Array
+(
+    [id] => aEgrsSmARw
+    [status] => NEW
+)
+
+
+
+
+2022-08-02 14:02:12Array
+(
+    [id] => PW06cAImtY
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-08-02 14:05:49Array
+(
+    [id] => 5K4rYSgyUL
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-08-02 14:06:26Array
+(
+    [id] => 5K4rYSgyUL
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-08-02 14:34:38Array
+(
+    [id] => YQOolez4Zq
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-08-03 06:00:52Array
+(
+    [id] => 52wQI8EbTX
+    [status] => NEW
+)
+
+
+
+
+2022-08-03 06:00:57Array
+(
+    [id] => xAX9YNEh2L
+    [status] => NEW
+)
+
+
+
+
+2022-08-03 06:01:02Array
+(
+    [id] => UGdVgeruWA
+    [status] => NEW
+)
+
+
+
+
+2022-08-03 06:01:07Array
+(
+    [id] => E5LyVc94lA
+    [status] => NEW
+)
+
+
+
+
+2022-08-03 06:01:12Array
+(
+    [id] => FhPm8wVzyv
+    [status] => NEW
+)
+
+
+
+
+2022-08-03 06:01:17Array
+(
+    [id] => jDg43AHEzC
+    [status] => NEW
+)
+
+
+
+
+2022-08-03 06:01:22Array
+(
+    [id] => lBXqWASTk6
+    [status] => NEW
+)
+
+
+
+
+2022-08-03 06:01:27Array
+(
+    [id] => KDhWoyFfIE
+    [status] => NEW
+)
+
+
+
+
+2022-08-03 06:01:32Array
+(
+    [id] => JRW8tpS1bh
+    [status] => NEW
+)
+
+
+
+
+2022-08-03 06:01:46Array
+(
+    [id] => 9DFPuh3Jnl
+    [status] => NEW
+)
+
+
+
+
+2022-08-03 06:01:52Array
+(
+    [id] => xnKSO82Yp7
+    [status] => NEW
+)
+
+
+
+
+2022-08-03 06:02:01Array
+(
+    [id] => bRqngmLoON
+    [status] => NEW
+)
+
+
+
+
+2022-08-03 06:02:09Array
+(
+    [id] => 3ucCZNojsB
+    [status] => NEW
+)
+
+
+
+
+2022-08-03 06:02:14Array
+(
+    [id] => 23EyDWuG8g
+    [status] => NEW
+)
+
+
+
+
+2022-08-03 06:02:22Array
+(
+    [id] => v0Dj8R3ofp
+    [status] => NEW
+)
+
+
+
+
+2022-08-03 06:02:27Array
+(
+    [id] => ZVYGKnev3B
+    [status] => NEW
+)
+
+
+
+
+2022-08-03 06:02:34Array
+(
+    [id] => 9IrXy1tDq6
+    [status] => NEW
+)
+
+
+
+
+2022-08-03 06:02:41Array
+(
+    [id] => k6qWzoalYh
+    [status] => NEW
+)
+
+
+
+
+2022-08-03 06:02:49Array
+(
+    [id] => TG4Lo0xKvt
+    [status] => NEW
+)
+
+
+
+
+2022-08-03 06:02:53Array
+(
+    [id] => 6rtQ4l7NGh
+    [status] => NEW
+)
+
+
+
+
+2022-08-03 06:02:59Array
+(
+    [id] => 41V3dLlIK6
+    [status] => NEW
+)
+
+
+
+
+2022-08-03 06:03:04Array
+(
+    [id] => EngZWSTiHY
+    [status] => NEW
+)
+
+
+
+
+2022-08-03 06:03:11Array
+(
+    [id] => hcLINib0Bv
+    [status] => NEW
+)
+
+
+
+
+2022-08-03 06:03:16Array
+(
+    [id] => 8MGmT9D3oq
+    [status] => NEW
+)
+
+
+
+
+2022-08-03 10:01:04Array
+(
+    [id] => Rk2urEyMim
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-08-03 11:42:37Array
+(
+    [id] => g5L7GRbytH
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-08-03 13:31:28Array
+(
+    [id] => Dn5bQL2SUR
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-08-03 20:06:53Array
+(
+    [id] => qyQwGZT2eV
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-08-03 20:10:43Array
+(
+    [id] => uI1VENftmD
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-08-03 23:21:28Array
+(
+    [id] => VENAPLSIRd
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-08-04 01:14:06Array
+(
+    [id] => LTASztsCya
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-08-04 05:56:25Array
+(
+    [id] => uCpywPHeLX
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-08-04 06:00:57Array
+(
+    [id] => o9XaPxmRTH
+    [status] => NEW
+)
+
+
+
+
+2022-08-04 06:01:02Array
+(
+    [id] => rUNks4hOSF
+    [status] => NEW
+)
+
+
+
+
+2022-08-04 06:01:07Array
+(
+    [id] => cpMXyb5rd3
+    [status] => NEW
+)
+
+
+
+
+2022-08-04 06:01:15Array
+(
+    [id] => EjfmhOPKCV
+    [status] => NEW
+)
+
+
+
+
+2022-08-04 06:01:20Array
+(
+    [id] => DYSa95KePw
+    [status] => NEW
+)
+
+
+
+
+2022-08-04 06:01:24Array
+(
+    [id] => 9yCY04KJtA
+    [status] => NEW
+)
+
+
+
+
+2022-08-04 06:01:48Array
+(
+    [id] => cwJpnuMLIl
+    [status] => NEW
+)
+
+
+
+
+2022-08-04 06:01:53Array
+(
+    [id] => 6d1IMTilLx
+    [status] => NEW
+)
+
+
+
+
+2022-08-04 06:01:59Array
+(
+    [id] => cs8eMKUIWX
+    [status] => NEW
+)
+
+
+
+
+2022-08-04 06:02:09Array
+(
+    [id] => e3lBOGCX6a
+    [status] => NEW
+)
+
+
+
+
+2022-08-04 06:02:23Array
+(
+    [id] => piCDlozj7s
+    [status] => NEW
+)
+
+
+
+
+2022-08-04 06:02:28Array
+(
+    [id] => p8b5J2kIeO
+    [status] => NEW
+)
+
+
+
+
+2022-08-04 06:02:37Array
+(
+    [id] => 2rnmYSyLq9
+    [status] => NEW
+)
+
+
+
+
+2022-08-04 06:02:43Array
+(
+    [id] => Z9zPuNEpcC
+    [status] => NEW
+)
+
+
+
+
+2022-08-04 06:02:47Array
+(
+    [id] => WmtPKn32Hh
+    [status] => NEW
+)
+
+
+
+
+2022-08-04 06:03:01Array
+(
+    [id] => j5AbK6fkuR
+    [status] => NEW
+)
+
+
+
+
+2022-08-04 06:03:08Array
+(
+    [id] => sEJFUn6paT
+    [status] => NEW
+)
+
+
+
+
+2022-08-04 06:03:15Array
+(
+    [id] => axG36uYnoq
+    [status] => NEW
+)
+
+
+
+
+2022-08-04 06:03:23Array
+(
+    [id] => Z7VCMu3wGN
+    [status] => NEW
+)
+
+
+
+
+2022-08-04 11:55:18Array
+(
+    [id] => I3FTRMAJWf
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-08-04 15:15:31Array
+(
+    [id] => jtmViaczZg
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-08-04 17:48:56Array
+(
+    [id] => sMI1iVAw97
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-08-04 17:51:51Array
+(
+    [id] => WfbAhnEvqt
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-08-04 17:51:51Array
+(
+    [id] => WfbAhnEvqt
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-08-04 20:42:27Array
+(
+    [id] => V4SpIfEzr7
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-08-04 23:28:17Array
+(
+    [id] => YjvIZwWm93
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-08-05 05:13:31Array
+(
+    [id] => CX1YkoS67H
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-08-05 05:33:42Array
+(
+    [id] => 5ZN9zSrE6u
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-08-05 05:51:55Array
+(
+    [id] => HvdTjXqoEA
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-08-05 05:55:32Array
+(
+    [id] => aOuyrkEDwf
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-08-05 06:00:54Array
+(
+    [id] => JQdyrR9ovW
+    [status] => NEW
+)
+
+
+
+
+2022-08-05 06:00:58Array
+(
+    [id] => RWixE0U1wq
+    [status] => NEW
+)
+
+
+
+
+2022-08-05 06:01:04Array
+(
+    [id] => es3G2WYQSf
+    [status] => NEW
+)
+
+
+
+
+2022-08-05 06:01:13Array
+(
+    [id] => SJhNtmnDeT
+    [status] => NEW
+)
+
+
+
+
+2022-08-05 06:01:20Array
+(
+    [id] => 4F7rl5BbKC
+    [status] => NEW
+)
+
+
+
+
+2022-08-05 06:01:27Array
+(
+    [id] => vCgzepYoNT
+    [status] => NEW
+)
+
+
+
+
+2022-08-05 06:01:31Array
+(
+    [id] => SpnWOYr6mo
+    [status] => NEW
+)
+
+
+
+
+2022-08-05 06:01:36Array
+(
+    [id] => ShkRvmArda
+    [status] => NEW
+)
+
+
+
+
+2022-08-05 06:01:42Array
+(
+    [id] => 7Lsic1P8MN
+    [status] => NEW
+)
+
+
+
+
+2022-08-05 06:01:46Array
+(
+    [id] => qEdnAsZF9r
+    [status] => NEW
+)
+
+
+
+
+2022-08-05 06:01:51Array
+(
+    [id] => BeJN1Ho4Kb
+    [status] => NEW
+)
+
+
+
+
+2022-08-05 06:01:55Array
+(
+    [id] => oMZSTBzVnG
+    [status] => NEW
+)
+
+
+
+
+2022-08-05 06:02:00Array
+(
+    [id] => k9GXelDbzI
+    [status] => NEW
+)
+
+
+
+
+2022-08-05 06:02:05Array
+(
+    [id] => 3Ul9v4zFBO
+    [status] => NEW
+)
+
+
+
+
+2022-08-05 06:02:09Array
+(
+    [id] => yfnJKrQ18D
+    [status] => NEW
+)
+
+
+
+
+2022-08-05 06:02:13Array
+(
+    [id] => aSFileMkhG
+    [status] => NEW
+)
+
+
+
+
+2022-08-05 06:02:23Array
+(
+    [id] => 4dYPGS0lgk
+    [status] => NEW
+)
+
+
+
+
+2022-08-05 06:02:30Array
+(
+    [id] => DcywgJubqT
+    [status] => NEW
+)
+
+
+
+
+2022-08-05 06:02:34Array
+(
+    [id] => wMQFNbSABW
+    [status] => NEW
+)
+
+
+
+
+2022-08-05 06:02:39Array
+(
+    [id] => 0pdIkw3KcW
+    [status] => NEW
+)
+
+
+
+
+2022-08-05 06:02:43Array
+(
+    [id] => yfarIghcuE
+    [status] => NEW
+)
+
+
+
+
+2022-08-05 06:02:49Array
+(
+    [id] => XRiakpqNwz
+    [status] => NEW
+)
+
+
+
+
+2022-08-05 06:02:59Array
+(
+    [id] => G2SNeLPliQ
+    [status] => NEW
+)
+
+
+
+
+2022-08-05 06:03:03Array
+(
+    [id] => qNji5FAbPx
+    [status] => NEW
+)
+
+
+
+
+2022-08-05 06:03:25Array
+(
+    [id] => quPyCwOe3o
+    [status] => NEW
+)
+
+
+
+
+2022-08-05 06:13:59Array
+(
+    [id] => OCZ95qzVyI
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
+2022-08-05 15:18:13Array
+(
+    [id] => fwxmDHMQVh
+    [status] => COMPLETED
+    [metadata] => Array
+        (
+            [status] => paid
+        )
+
+)
+
+
+
+
