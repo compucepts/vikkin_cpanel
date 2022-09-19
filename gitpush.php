@@ -34,7 +34,7 @@ print_r($output);
 //exec('git push -u origin main ', $output, $retval);
 
 
-exec('git push https://compucepts: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@github.com/compucepts/vikkin_cpanel.git --all   ', $output, $retval);
+exec('git push https://compucepts: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@github.com/compucepts/vikkin_cpanel.git --all   ', $output, $retval);
 
 
 print_r($output);
