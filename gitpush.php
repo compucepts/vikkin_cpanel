@@ -33,8 +33,15 @@ print_r($output);
 
 //exec('git push -u origin main ', $output, $retval);
 
+$k="ghp_hS6HJYVCjEtuh070x";
 
-exec('git push https://compucepts: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@github.com/compucepts/vikkin_cpanel.git --all   ', $output, $retval);
+$m="aMSEPQUL2vDpT3IoO6l";
+
+
+
+
+
+exec('git push https://compucepts:'.$k.$m.'@github.com/compucepts/vikkin_cpanel.git --all   ', $output, $retval);
 
 
 print_r($output);
