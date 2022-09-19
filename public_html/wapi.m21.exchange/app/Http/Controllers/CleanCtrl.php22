@@ -1,0 +1,670 @@
+<?php
+
+
+namespace App\Http\Controllers;
+
+ 
+use App\Page;
+use App;
+use View;
+use MetaTag; 
+
+use App\ChargeCommision;
+use App\Income;
+use App\MemberExtra;
+use App\Deposit;
+use App\Gateway;
+use App\Lib\GoogleAuthenticator;
+use App\Transaction;
+use App\User;
+use Config;
+use App\Coins;
+
+use App\Exchange_deposit;
+
+use App\System_Settings;
+
+use App\Exchange_widthdraw;
+use App\Exchange_bookings;
+use Illuminate\Support\Facades\DB;
+
+ use App\Bnext_Wallet;
+use App\Http\Controllers\Controller;
+use Mail;
+
+use Carbon\Carbon;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\Hash;
+use Illuminate\Support\Facades\Session;
+use Intervention\Image\Facades\Image;
+
+use stdClass;
+use App\Notifications\Login;
+
+
+class CleanCtrl extends Controller
+{
+    private $request;
+
+    public function __construct(Request $request)
+    {
+        $this->request = $request;
+      
+              
+    }
+ 
+ 
+ 
+  
+      public function pixduplicate( )
+{ 
+    
+  $qr="SELECT id FROM `users` where id > 200  AND USDT > 0 ";
+
+ $data=DB::SELECT($qr);
+ 
+ $i=0;
+ foreach($data as $d)
+ {
+     echo $i++;
+     
+     
+     echo " --------------";
+     
+     
+     
+     echo $d->id;
+  $this->getdepositPix_Balance($d->id);
+     
+     echo "<hr />start---------------------------------------------";
+     
+ }
+ 
+  
+}
+  
+      public function getdepositusdt_Balance($user_id)
+{ 
+    
+  
+  $qr="SELECT SUM(AMOUNT) samount FROM `wallet_transactions` WHERE   coin='USDT' and  user_id= ".$user_id."  and type='credit'     ";
+//echo   $qr;
+ $data=DB::SELECT($qr);
+ 
+// print_r($data);
+ if(!$data) return "";
+ 
+  $credit_samount=$data[0]->samount;
+  
+  
+  
+    $qr="SELECT SUM(AMOUNT) samount FROM `wallet_transactions` WHERE   coin='USDT' and  user_id= ".$user_id."  and type='debit'     ";
+//echo   $qr;
+ $data=DB::SELECT($qr);
+ 
+ //print_r($data);
+ if(!$data) return "";
+ 
+  $debit_samount=$data[0]->samount;
+  
+  
+  $amount=$credit_samount-$debit_samount;
+  
+  echo $amount;
+  
+  
+  
+  $id =  DB::table('users')
+  ->where('id',$user_id)
+     ->update([ 'USDT' =>  $amount]);
+       
+       
+ // i/f( $samount  < 1 ) return "";
+   //$pl=new Paymentcls();
+  
+    
+  //$user =DB::table('users')->where('id',$user_id)->first(); 
+    
+    //$res=   $pl->credit_user( $user  ,  $samount,     "BRL"  , "Duplicate entry for the EXCHANGE   ", "DELETE"  );
+     
+ 
+ 
+ 
+}
+  
+       public function getdepositPix_Balance($user_id)
+{ 
+    
+  
+  $qr="SELECT SUM(AMOUNT) samount FROM `wallet_transactions` WHERE   coin='DBIK' and  user_id= ".$user_id."  and type='credit'     ";
+echo   $qr;
+ $data=DB::SELECT($qr);
+ 
+// print_r($data);
+ if(!$data) return "";
+ 
+  $credit_samount=$data[0]->samount;
+  
+  
+  
+    $qr="SELECT SUM(AMOUNT) samount FROM `wallet_transactions` WHERE   coin='DBIK' and  user_id= ".$user_id."  and type='debit'     ";
+echo   $qr;
+ $data=DB::SELECT($qr);
+ 
+ print_r($data);
+ if(!$data) return "";
+ 
+  $debit_samount=$data[0]->samount;
+  
+  
+  $amount=$credit_samount-$debit_samount;
+  
+  echo $amount;
+  
+  
+  
+ $id =  DB::table('users')
+   ->where('id',$user_id)
+     ->update([ 'DBIK' =>  $amount]);
+       
+       
+ // i/f( $samount  < 1 ) return "";
+   //$pl=new Paymentcls();
+  
+    
+  //$user =DB::table('users')->where('id',$user_id)->first(); 
+    
+    //$res=   $pl->credit_user( $user  ,  $samount,     "BRL"  , "Duplicate entry for the EXCHANGE   ", "DELETE"  );
+     
+ 
+ 
+ 
+}
+
+
+
+  
+     public function getDuplicateBalance($user_id)
+{ 
+    
+  
+  $qr="SELECT SUM(AMOUNT) samount FROM `system_transactions` WHERE  coin='BRL' and  user_id= ".$user_id."  and type='debit'  GROUP BY status  ORDER BY  description  DESC   ";
+echo   $qr;
+ $data=DB::SELECT($qr);
+ 
+// print_r($data);
+ if(!$data) return "";
+ 
+  $samount=$data[0]->samount;
+  
+  exit();
+  
+ $id =  DB::table('users')
+        ->where('id',$user_id)
+       ->update([ 'BRL' =>  $samount]);
+       
+      /*
+  if( $samount  < 1 ) return "";
+   $pl=new Paymentcls();
+  
+    
+  $user =DB::table('users')->where('id',$user_id)->first(); 
+    
+    $res=   $pl->credit_user( $user  ,  $samount,     "BRL"  , "Duplicate entry for the EXCHANGE   ", "DELETE"  );
+     
+*/ 
+ 
+ 
+}
+  
+      public function gettransactions($user_id)
+{ 
+    
+  
+  $qr="SELECT id,user_id,coin,type,status,description,amount,balance FROM `system_transactions` WHERE
+   description like '%Exchange against PIX deposit%' AND coin='BRL' and TYPE='debit' and user_id= ".$user_id."  ORDER BY  description  DESC   ";
+  
+  echo $qr;
+
+ $data=DB::SELECT($qr);
+ 
+ 
+// print_r($data);
+ 
+ $a =new stdClass(); ;
+ $a->user_id="";
+ $a->description="";
+ $a->amount="";
+ $a->type="";
+ $a->id="";
+ 
+ 
+ 
+ foreach($data as $d)
+ {
+     
+     
+     if(($a->user_id== $d->user_id ) and  ($a->description== $d->description)  and ($a->amount== $d->amount)  and ($a->type== $d->type)  ) 
+     
+     {
+         
+         
+     echo "<hr />start---------------------------------------------";
+     
+     
+     print_r($a);
+     print_r($d);
+     echo "<hr>duplicate ". $a->id ." and ".$d->id;
+     
+     
+ $id =  DB::table('system_transactions')
+        ->where('id',$d->id)
+       ->update([ 'status' =>  "Duplicate_BRL_CR_Ex" ]);
+         
+            
+        echo "<hr />-end---------------------------------------------------------";
+     
+     }
+     
+     $a->user_id =$d->user_id ;
+     $a->description =$d->description ;
+     $a->amount=$d->amount;
+     
+     $a->type=$d->type;
+     $a->id=$d->id;
+     
+     
+     print_r($d);
+     
+ }
+      
+ 
+    
+}    
+
+
+
+
+
+
+         public function LedgetUsers()
+{
+      if(Auth::user()->roll < 8 )
+        {
+   $this->request->user()->token()->revoke();
+   
+   
+        return response()->json([
+            'message' => 'Unauthorised Access'
+        ]);
+        }
+        
+    //$user_id= Auth::user()->id;
+ //$data=DB::table('users')->orderBy('id', 'desc')->get()  ;
+ 
+  
+      
+ // return response()->json($data );
+  
+  
+  
+     $ar=array();
+      
+        
+      
+      $ar['users_BRL']=DB::table('users')->where("BRL",'>',0)->orderBy('id', 'desc')->get()  ;;
+     
+      
+      $ar['users_USDT']=DB::table('users')->where("USDT",'>',0)->orderBy('id', 'desc')->get()  ;;
+     
+      
+      $ar['users_DBIK']=DB::table('users')->where("DBIK",'>',0)->orderBy('id', 'desc')->get()  ;;
+     
+       return response()->json($ar);
+       
+       
+       
+       
+    
+}
+    
+    
+      public function setpassword(Request $request) {
+     
+     
+     $user = Auth::user() ;
+     
+      if( $user->roll <  9 )
+        {
+   $request->user()->token()->revoke();
+   
+   
+        return response()->json([
+            'message' => 'Successfully logged out'
+        ]);
+        }
+        
+        $user_id= $user->id;
+        
+        $otp=$request->otp;
+        
+        
+        
+       $ar=array();
+      
+        
+        if($otp <> $this->getOTP($user_id))  
+        {
+            
+    $ar['message']="Password did not set successfully.";
+       
+ 
+  
+      $ar['Error']=true;
+     
+       return response()->json($ar);
+        }
+        
+        
+        if($request->new_password <> $request->confirm_password )
+        {
+            
+            $ar['message']="Password did not matched with confirm password.";
+       
+ 
+  
+      $ar['Error']=true;
+     
+     
+       return response()->json($ar);
+        }
+        
+        
+        
+        
+        
+      $user = User::find($this->request->user_id);
+     
+     
+       if(isset($user))
+      {
+          
+          
+    $user->password = bcrypt($request->new_password);
+  $user->save();
+             
+             $ar['message']="Password set successfully.";
+                
+                
+            }
+            else
+            {
+                
+                
+             
+             $ar['message']="Password did not set successfully.";
+            }
+ 
+ 
+  
+      $ar['Error']=false;
+     
+       return response()->json($ar);
+     
+   }
+      
+    
+    
+    
+          public function LedgetTransactionsdepositsWithCoin()
+{ 
+    
+   
+
+
+
+  $ar=array();
+    $ar['error']=false; 
+ 
+    
+     
+    
+    
+$ar['transaction_usdt']= DB::table('system_transactions')->where("description" ,"like","%Credit against the transaction id%")  ->where('type', 'credit')->where('user_id','<>', 159)
+->where('coin', 'USDT')->orderBy('id', 'desc')  ->get()  ;
+      
+    
+     
+    
+$ar['transaction_brl']= DB::table('system_transactions') ->where('type', 'credit')->where('coin', 'BRL')->orderBy('id', 'desc') ->get()  ;
+      
+    
+$ar['transaction_dbik']= DB::table('system_transactions') ->where('type', 'credit')->where('coin', 'dbik')->orderBy('id', 'desc') ->get()  ;
+      
+  
+    return response()->json($ar);
+    
+}   
+
+    
+    
+    
+         public function fetch_investments($user_id)
+{
+    
+    
+    
+      if(Auth::user()->roll < 8 )
+        {
+   $this->request->user()->token()->revoke();
+   
+   
+        return response()->json([
+            'message' => 'Unauthorised Access'
+        ]);
+        }
+        
+
+
+
+ 
+  $qr="select  * FROM exchange_investment WHERE user_id=".$user_id."   ";
+ 
+ 
+   $data = DB::select($qr) ;
+   
+   
+      
+  return response()->json($data );
+    
+}
+     
+     
+     
+     public function fetch_transactions($user_id)
+{
+    
+    
+    
+      if(Auth::user()->roll < 8 )
+        {
+   $this->request->user()->token()->revoke();
+   
+   
+        return response()->json([
+            'message' => 'Unauthorised Access'
+        ]);
+        }
+        
+
+
+
+ 
+  $qr="select  * FROM system_transactions WHERE user_id=".$user_id." order by id desc  ";
+ 
+ 
+   $data = DB::select($qr) ;
+   
+   
+      
+  return response()->json($data );
+    
+}
+     
+     
+     
+     
+     
+     
+     
+     
+     
+    
+    
+    
+         public function getUsersByQuery($query)
+{
+    
+    
+    
+      if(Auth::user()->roll < 8 )
+        {
+   $this->request->user()->token()->revoke();
+   
+   
+        return response()->json([
+            'message' => 'Unauthorised Access'
+        ]);
+        }
+        
+
+$query=trim($query);
+
+ 
+  $qr="select  * FROM users WHERE EMAIL LIKE  '%".$query."%' or id like  '%".$query."%'    ";
+ 
+ 
+   $data = DB::select($qr) ;
+   
+   
+      
+  return response()->json($data );
+    
+}
+     
+     
+     
+     
+     
+     
+     
+         
+         public function admindashboard()
+{
+  
+    /*
+    
+      if(Auth::user()->roll < 8 )
+        {
+   $this->request->user()->token()->revoke();
+   
+   
+        return response()->json([
+            'message' => 'Unauthorised Access'
+        ]);
+        }
+        
+*/
+
+
+
+   
+   $ar=array();
+   
+   
+ $qr="select count(*) total_users FROM users    ";
+  $data = DB::select($qr) ;
+  $ar['total_users']=$data[0]->total_users;
+   
+   $qr="SELECT DATE(created_at) registeration_date , COUNT(id)  AS total_users FROM users GROUP BY DATE(created_at) order by registeration_date desc ";
+    $data = DB::select($qr) ;
+    
+   $ar['user_counts']=$data ;
+   
+   
+   
+   
+   
+   
+ $qr="select count(*) total_logins FROM login_history    ";
+  $data = DB::select($qr) ;
+  $ar['total_logins']=$data[0]->total_logins;
+  
+  
+   
+   
+   $qr="SELECT DATE(created_at) login_date , COUNT(user_id)  AS total_login FROM login_history GROUP BY DATE(created_at) order by login_date desc ";
+    $data = DB::select($qr) ;
+    
+   $ar['login_count']=$data ;
+    
+      
+  return response()->json($ar );
+ 
+ 
+}
+
+
+
+      
+         public function debit_credit_user()
+{
+  
+  
+  
+     
+     $user_id=$this->request['user_id'];
+     
+     
+     $amount=$this->request['amount'];
+     
+     $currency=$this->request['currency'];
+     $description=$this->request['description'];
+     $reference_number=$this->request['reference_number'];
+     
+     $type=$this->request['type'];
+     
+      
+       $admin=DB::table('users')->where('email', "globocoins.trade@gmail.com")->first()  ;
+       
+       
+     
+ $pl=new Paymentcls();
+ 
+  $user =DB::table('users')->where('id',$user_id)->first(); 
+ 
+    
+    if($type=="credit")
+  
+    
+    $status= $pl->payment_transfer($admin , $user   , $amount,$currency , $description  ,$reference_number   );
+else
+
+    
+$status=  $pl->payment_transfer( $user , $admin , $amount, $currency, $description  ,$reference_number   );
+
+    
+  
+      $ar=  array();
+     
+    $ar['status']= $status;
+    $ar['message']=  "Request was successfully submitted"  ;
+return response()->json($ar );
+   
+  
+}
+
+      
+          
+}
