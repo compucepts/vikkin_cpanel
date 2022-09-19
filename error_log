@@ -1,0 +1,2 @@
+[19-Sep-2022 12:57:24 UTC] PHP Warning:  file_get_contents(delete/663322828__people.txt): Failed to open stream: No such file or directory in /home/vikkin/gitpush.php on line 11
+[19-Sep-2022 12:57:24 UTC] PHP Warning:  file_put_contents(delete/663322828__people.txt): Failed to open stream: No such file or directory in /home/vikkin/gitpush.php on line 15

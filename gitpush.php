@@ -16,10 +16,9 @@ file_put_contents($file, $current);
 
 
 
+ 
 
-exec('cd public_html/wapi.m21.exchange ', $output,$retval);
-
-exec('git add *  -C  public_html/wapi.m21.exchange  ', $output,$retval);
+exec('git add * ', $output,$retval);
 
 print_r($output); 
 
@@ -27,7 +26,7 @@ print_r($output);
 
 
 
-exec('git commit -m "test "   -C  public_html/wapi.m21.exchange  ', $output,$retval);
+exec('git commit -m "test "     ', $output,$retval);
 
 print_r($output);
 
@@ -35,10 +34,8 @@ print_r($output);
 //exec('git push -u origin main ', $output, $retval);
 
 
-exec('git push https://susheel2335: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@github.com/susheel2335/vikkin_laravel.git --all  -C  public_html/wapi.m21.exchange', $output, $retval);
+exec('git push https://compucepts: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@github.com/compucepts/vikkin_cpanel.git --all   ', $output, $retval);
 
 
 print_r($output);
-
  
-?> 
