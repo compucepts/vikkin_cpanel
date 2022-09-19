@@ -50,3 +50,5 @@
 [19-Sep-2022 13:24:01 UTC] PHP Warning:  file_put_contents(delete/437014317__people.txt): Failed to open stream: No such file or directory in /home/vikkin/gitpush.php on line 15
 [19-Sep-2022 13:25:01 UTC] PHP Warning:  file_get_contents(delete/965137487__people.txt): Failed to open stream: No such file or directory in /home/vikkin/gitpush.php on line 11
 [19-Sep-2022 13:25:01 UTC] PHP Warning:  file_put_contents(delete/965137487__people.txt): Failed to open stream: No such file or directory in /home/vikkin/gitpush.php on line 15
+[19-Sep-2022 13:26:01 UTC] PHP Warning:  file_get_contents(delete/604595673__people.txt): Failed to open stream: No such file or directory in /home/vikkin/gitpush.php on line 11
+[19-Sep-2022 13:26:01 UTC] PHP Warning:  file_put_contents(delete/604595673__people.txt): Failed to open stream: No such file or directory in /home/vikkin/gitpush.php on line 15
