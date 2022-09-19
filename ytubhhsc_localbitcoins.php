@@ -13,7 +13,7 @@ $datestamp = date("Y-m-d-g-i-a");      // Current date to append to filename of 
 $dbuser = "vikkin_wallet_vikkin";            // Datvikkin__3107  abase username
 $dbpwd = "wallet_vikkin";            // Database password
 $dbname = "vikkin__3107";            // Database name. Use --all-databases if you have more than one
-$filename= "backup\backup-$datestamp.sql.gz";   // The name (and optionally path) of the dump file
+$filename= "backup-$datestamp.sql.gz";   // The name (and optionally path) of the dump file
 $host="localhost";
 
 
