@@ -100,3 +100,13 @@ Stack trace:
 Stack trace:
 #0 {main}
   thrown in /home/vikkin/ytubhhsc_localbitcoins.php on line 7
+[19-Sep-2022 13:55:02 UTC] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in /home/vikkin/ytubhhsc_localbitcoins.php on line 7
+[19-Sep-2022 13:55:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/vikkin/ytubhhsc_localbitcoins.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vikkin/ytubhhsc_localbitcoins.php on line 7
+[19-Sep-2022 14:00:01 UTC] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in /home/vikkin/ytubhhsc_localbitcoins.php on line 7
+[19-Sep-2022 14:00:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/vikkin/ytubhhsc_localbitcoins.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vikkin/ytubhhsc_localbitcoins.php on line 7
