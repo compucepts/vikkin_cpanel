@@ -1,10 +1,7 @@
 <?php
 
-
-use PHPMailer\PHPMailer\PHPMailer;
-use PHPMailer\PHPMailer\Exception;
-
-require_once "vendor/autoload.php";
+ 
+ 
 
 ///////////////////////////////
 $datestamp = date("Y-m-d-g-i-a");      // Current date to append to filename of backup file in format of YYYY-MM-DD
