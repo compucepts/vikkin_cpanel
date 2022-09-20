@@ -1,1 +1,1 @@
-UPDATE `exchange_investment` SET   hourly_income =hourly_income+ amount* 5.0E-5 , hourly_income_string = CONCAT (hourly_income_string ,'|' ,amount* 5.0E-5 )  where   status='Active' and plan_name <> 'robot 11' bool(true)
+UPDATE `exchange_investment` SET   hourly_income =hourly_income+ amount* 2.5E-5 , hourly_income_string = CONCAT (hourly_income_string ,'|' ,amount* 2.5E-5 )  where   status='Active' and plan_name <> 'robot 11' bool(true)
