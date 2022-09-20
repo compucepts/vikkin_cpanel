@@ -371,7 +371,7 @@ class AuthController extends Controller
  
  
  
-         
+         /*
            $data = array( 'content'=>  $ar['message'],'subject'=>  'Password set attempts'  );
            
          
@@ -383,7 +383,7 @@ class AuthController extends Controller
            
           
       });
-     
+     */
       $ar['Error']=false;
      
        return response()->json($ar);
@@ -1631,7 +1631,7 @@ else{
              
              
              
-             
+           /*  
                   $data = array( 'content'=>    $ar['message'],'subject'=>  'Password change'  );
            
          
@@ -1646,7 +1646,7 @@ else{
              
     $message->from('support@vikkin.ltd','');
       });
- 
+ */
  
  
  
